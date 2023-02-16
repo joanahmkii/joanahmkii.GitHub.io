@@ -1,8 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: First Blog Post
 published: true
 ---
 ## This is your first blog with jekeyll
 
-# great
+# Congratulations!
